@@ -1,0 +1,88 @@
+body {
+	background: #476930;
+	background-size: 100%;
+
+}
+
+.name {
+	font-size: 40px;
+	text-align: center;
+	font-family: "Lucida Handwriting", cursive;
+	text-transform: uppercase;
+	
+}
+
+.photos {
+	height: 350px;
+	width: 250px;
+}
+
+td {
+	text-align: center;
+}
+
+button {
+	height: 50px;
+	width: 250px;
+}
+
+.first {
+	position: absolute;
+	top: 125px;
+	right: 40px;
+	font-size: 40px;
+	font-family: "consolas", sans-serif;
+	background: lightgreen;
+	padding-left: 119px;
+	padding-right: 100px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+.second {
+	position: absolute;
+	top: 215px;
+	right: 40px;
+	font-size: 23px;
+	background: green;
+ 	font-family: sans-serif;
+ 	color: white;
+ 	padding-bottom: 100px;
+}
+
+.dos {
+	position: absolute;
+	right: 40px;
+}
+
+.tres {
+	position: absolute;
+	top: 600px;
+	left: 15px;
+	font-size: 40px;
+	font-family: "consolas", sans-serif;
+	background: lightgreen;
+	padding-left: 156px;
+	padding-right: 100px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+.kwatro {
+	position: absolute;
+	top: 700px;
+	left: 15px;
+	font-size: 23px;
+	background: green;
+ 	font-family: sans-serif;
+ 	color: white;
+ 	padding-bottom: 100px;
+ 	padding-right: 60px;
+}
+
+.dog {
+	font-size: 20px;
+	font-family: sans-serif;
+	background: green;
+	color: white;
+}
